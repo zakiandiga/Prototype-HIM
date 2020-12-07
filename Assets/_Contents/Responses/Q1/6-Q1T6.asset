@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1b3741f3c6a98468704b6984651732, type: 3}
+  m_Name: 6-Q1T6
+  m_EditorClassIdentifier: 
+  questionCode: 
+  isClosing: 0
+  noOption: 0
+  question: "You wouldn't do the same?\r\nI thought you loved me...\r"
+  firstResponse: I'm a little concerned that I'm the only thing that makes you happy...
+  firstDestination: Q1T13
+  secondResponse: That feels like a lot of pressure to put on me and on us...
+  secondDestination: Q1T12
+  thirdResponse: I'm sorry, I'm saying all the wrong things :( I love you so much
+  thirdDestination: Q1T14

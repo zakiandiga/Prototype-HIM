@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1b3741f3c6a98468704b6984651732, type: 3}
+  m_Name: 75-Q4T13
+  m_EditorClassIdentifier: 
+  questionCode: 75
+  isClosing: 0
+  noOption: 0
+  question: 
+  firstResponse: It doesn't seem like you're really taking accountability for what
+    happened...
+  firstDestination: Q4T17
+  secondResponse: I know you think that but...I can't be responsible for your happiness
+  secondDestination: Q4T16
+  thirdResponse: 
+  thirdDestination: 

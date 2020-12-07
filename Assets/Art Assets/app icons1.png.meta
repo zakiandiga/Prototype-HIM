@@ -1,0 +1,1382 @@
+fileFormatVersion: 2
+guid: 5c042a4807c061846bbe79e1c3d7a867
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3816778828867689087
+    second: app icons1_0
+  - first:
+      213: -1379281423699303563
+    second: app icons1_1
+  - first:
+      213: -6569595617797553937
+    second: app icons1_2
+  - first:
+      213: -4447842752144934947
+    second: app icons1_3
+  - first:
+      213: 9063537036096197506
+    second: app icons1_4
+  - first:
+      213: -2862302455709559241
+    second: app icons1_5
+  - first:
+      213: 2005577801288708272
+    second: app icons1_6
+  - first:
+      213: 8044902671041648259
+    second: app icons1_7
+  - first:
+      213: -6830729305744996332
+    second: app icons1_8
+  - first:
+      213: -5386662263413836337
+    second: app icons1_9
+  - first:
+      213: 6837350684826900136
+    second: app icons1_10
+  - first:
+      213: -4165160396682605320
+    second: app icons1_11
+  - first:
+      213: -5361184118051509319
+    second: app icons1_12
+  - first:
+      213: 6644484968987426024
+    second: app icons1_13
+  - first:
+      213: -635092211516723695
+    second: app icons1_14
+  - first:
+      213: -2245620141199472581
+    second: app icons1_15
+  - first:
+      213: -6203269077304915310
+    second: app icons1_16
+  - first:
+      213: 3721204541174471361
+    second: app icons1_17
+  - first:
+      213: 3370650429907046141
+    second: app icons1_18
+  - first:
+      213: -5191289715583768755
+    second: app icons1_19
+  - first:
+      213: 2839432209627093118
+    second: app icons1_20
+  - first:
+      213: -7584576857807998403
+    second: app icons1_21
+  - first:
+      213: -2610971165163590164
+    second: app icons1_22
+  - first:
+      213: 4189243388010805596
+    second: app icons1_23
+  - first:
+      213: -6888478721668306994
+    second: app icons1_24
+  - first:
+      213: -9048928872954674791
+    second: app icons1_25
+  - first:
+      213: -380711042358698992
+    second: app icons1_26
+  - first:
+      213: -8434583674601122062
+    second: app icons1_27
+  - first:
+      213: -4274023195947723971
+    second: app icons1_28
+  - first:
+      213: 8736511893080635212
+    second: app icons1_29
+  - first:
+      213: -1615561962547272662
+    second: app icons1_30
+  - first:
+      213: 8207822338872803860
+    second: app icons1_31
+  - first:
+      213: -1096579569085981286
+    second: app icons1_32
+  - first:
+      213: 7332600701164492577
+    second: app icons1_33
+  - first:
+      213: 9108144718576094449
+    second: app icons1_34
+  - first:
+      213: -5833066692360754876
+    second: app icons1_35
+  - first:
+      213: -1408975954376666916
+    second: app icons1_36
+  - first:
+      213: 7641055182354805967
+    second: app icons1_37
+  - first:
+      213: 645897323759154980
+    second: app icons1_38
+  - first:
+      213: -5244057645554941882
+    second: app icons1_39
+  - first:
+      213: -9106776273565758275
+    second: app icons1_40
+  - first:
+      213: 7848322253794528100
+    second: app icons1_41
+  - first:
+      213: -1118716333247963226
+    second: app icons1_42
+  - first:
+      213: -963654159340335075
+    second: app icons1_43
+  - first:
+      213: -1068070663841196806
+    second: app icons1_44
+  - first:
+      213: -5562052619843254942
+    second: app icons1_45
+  - first:
+      213: -4445863862776500986
+    second: app icons1_46
+  - first:
+      213: 8632103888244445010
+    second: app icons1_47
+  - first:
+      213: -9041561868241601059
+    second: app icons1_48
+  - first:
+      213: -378024035278061327
+    second: app icons1_49
+  - first:
+      213: -1516277067651859402
+    second: app icons1_50
+  - first:
+      213: 842620468344070143
+    second: app icons1_51
+  - first:
+      213: -6563711716186036364
+    second: app icons1_52
+  - first:
+      213: -5124933575655976049
+    second: app icons1_53
+  - first:
+      213: -1368320613192108163
+    second: app icons1_54
+  - first:
+      213: -1571748257062047726
+    second: app icons1_55
+  - first:
+      213: 6411598393211655501
+    second: app icons1_56
+  - first:
+      213: 3750187452154940753
+    second: app icons1_57
+  - first:
+      213: 4601735004708520734
+    second: app icons1_58
+  - first:
+      213: 1166282226556757608
+    second: app icons1_59
+  - first:
+      213: 60173043407381211
+    second: app icons1_60
+  - first:
+      213: -5961915581236074518
+    second: app icons1_61
+  - first:
+      213: -3191189506433534503
+    second: app icons1_62
+  - first:
+      213: 1759331338015539078
+    second: app icons1_63
+  - first:
+      213: 579438029382347068
+    second: app icons1_64
+  - first:
+      213: -692113894852549633
+    second: app icons1_65
+  - first:
+      213: -270372855841823713
+    second: app icons1_66
+  - first:
+      213: 8711010081722115219
+    second: app icons1_67
+  - first:
+      213: 5674003472244474720
+    second: app icons1_68
+  - first:
+      213: -2310352558351920957
+    second: app icons1_69
+  - first:
+      213: 231236060496114377
+    second: app icons1_70
+  - first:
+      213: -6851475417770254144
+    second: app icons1_71
+  - first:
+      213: 8422206712591871615
+    second: app icons1_72
+  - first:
+      213: 8265344379105237767
+    second: app icons1_73
+  - first:
+      213: 4737918787176982570
+    second: app icons1_74
+  - first:
+      213: 3824513703038185402
+    second: app icons1_75
+  - first:
+      213: 3193089651839280341
+    second: app icons1_76
+  - first:
+      213: 285949030429821817
+    second: app icons1_77
+  - first:
+      213: 5448748755972872628
+    second: app icons1_78
+  - first:
+      213: -4840364410169994767
+    second: app icons1_79
+  - first:
+      213: -6340332950978324052
+    second: app icons1_80
+  - first:
+      213: -8875656261989629531
+    second: app icons1_81
+  - first:
+      213: -2101607236946062735
+    second: app icons1_82
+  - first:
+      213: -4796447685535515078
+    second: app icons1_83
+  - first:
+      213: -7483790940375082184
+    second: app icons1_84
+  - first:
+      213: -8288532759753896433
+    second: app icons1_85
+  - first:
+      213: -7140443822116428995
+    second: app icons1_86
+  - first:
+      213: -7660339910560405584
+    second: app icons1_87
+  - first:
+      213: 1383044595431572658
+    second: app icons1_88
+  - first:
+      213: 7169721896023030899
+    second: app icons1_89
+  - first:
+      213: -1656940515009840092
+    second: app icons1_90
+  - first:
+      213: -4053772563684307888
+    second: app icons1_91
+  - first:
+      213: 8760922739968086318
+    second: app icons1_92
+  - first:
+      213: 6094671322007061199
+    second: app icons1_93
+  - first:
+      213: -7546707403788479935
+    second: app icons1_94
+  - first:
+      213: 5198203759000283941
+    second: app icons1_95
+  - first:
+      213: -6924284452159308584
+    second: app icons1_96
+  - first:
+      213: -699362690902117171
+    second: app icons1_97
+  - first:
+      213: -5973020219540943663
+    second: app icons1_98
+  - first:
+      213: -3896355343472978459
+    second: app icons1_99
+  - first:
+      213: 2290308501189068276
+    second: app icons1_100
+  - first:
+      213: 5082960042822682848
+    second: app icons1_101
+  - first:
+      213: 2740621932361128033
+    second: app icons1_102
+  - first:
+      213: -613110107452721032
+    second: app icons1_103
+  - first:
+      213: -4880205872492601484
+    second: app icons1_104
+  - first:
+      213: 5702136141608575486
+    second: app icons1_105
+  - first:
+      213: -544926778281088247
+    second: app icons1_106
+  - first:
+      213: 5337545022652021750
+    second: app icons1_107
+  - first:
+      213: 4477504020800647739
+    second: app icons1_108
+  - first:
+      213: 475674459884338817
+    second: app icons1_109
+  - first:
+      213: 4821131635649764597
+    second: app icons1_110
+  - first:
+      213: 8284841961917910502
+    second: app icons1_111
+  - first:
+      213: -4393097717134275267
+    second: app icons1_112
+  - first:
+      213: 8001841918210047644
+    second: app icons1_113
+  - first:
+      213: -5006708581881142303
+    second: app icons1_114
+  - first:
+      213: 5993883423219098339
+    second: app icons1_115
+  - first:
+      213: 4245413168388824585
+    second: app icons1_116
+  - first:
+      213: 8204789385756149741
+    second: app icons1_117
+  - first:
+      213: -4438482383104494610
+    second: app icons1_118
+  - first:
+      213: -7870458245931673546
+    second: app icons1_119
+  - first:
+      213: 2944717468316770857
+    second: app icons1_120
+  - first:
+      213: 8957727712757759627
+    second: app icons1_121
+  - first:
+      213: 5596010845953546451
+    second: app icons1_122
+  - first:
+      213: 6622675241997060988
+    second: app icons1_123
+  - first:
+      213: 8402700376269338786
+    second: app icons1_124
+  - first:
+      213: 5888152134500656302
+    second: app icons1_125
+  - first:
+      213: 5089094101001953063
+    second: app icons1_126
+  - first:
+      213: -8925899298141688
+    second: app icons1_127
+  - first:
+      213: 8769802357965125032
+    second: app icons1_128
+  - first:
+      213: -7705978878641769769
+    second: app icons1_129
+  - first:
+      213: -8463036238326960200
+    second: app icons1_130
+  - first:
+      213: 4760614708777459803
+    second: app icons1_131
+  - first:
+      213: -3789358924470281141
+    second: app icons1_132
+  - first:
+      213: -4695013159378273020
+    second: app icons1_133
+  - first:
+      213: -9015110757172116663
+    second: app icons1_134
+  - first:
+      213: 6058796768089880163
+    second: app icons1_135
+  - first:
+      213: 3981832837722517907
+    second: app icons1_136
+  - first:
+      213: -2089138461254294527
+    second: app icons1_137
+  - first:
+      213: 8542267926413250737
+    second: app icons1_138
+  - first:
+      213: 6169686842346349401
+    second: app icons1_139
+  - first:
+      213: -6878628290852812017
+    second: app icons1_140
+  - first:
+      213: -7922807259809180481
+    second: app icons1_141
+  - first:
+      213: -7350447094408267642
+    second: app icons1_142
+  - first:
+      213: -8544773443062114625
+    second: app icons1_143
+  - first:
+      213: 7314295329629947455
+    second: app icons1_144
+  - first:
+      213: -6196789428069475015
+    second: app icons1_145
+  - first:
+      213: -2682818157735541188
+    second: app icons1_146
+  - first:
+      213: 6108526626631933339
+    second: app icons1_147
+  - first:
+      213: -95142779473666867
+    second: app icons1_148
+  - first:
+      213: 6031497705959628579
+    second: app icons1_149
+  - first:
+      213: -3864561550876073132
+    second: app icons1_150
+  - first:
+      213: -6428160023525881393
+    second: app icons1_151
+  - first:
+      213: 5685329554813614959
+    second: app icons1_152
+  - first:
+      213: -4229527180363448258
+    second: app icons1_153
+  - first:
+      213: -4308295641599305935
+    second: app icons1_154
+  - first:
+      213: -4855023833513249222
+    second: app icons1_155
+  - first:
+      213: 2495857561833278200
+    second: app icons1_156
+  - first:
+      213: 5718709892407289689
+    second: app icons1_157
+  - first:
+      213: -6289595899212875473
+    second: app icons1_158
+  - first:
+      213: 1548937298661528879
+    second: app icons1_159
+  - first:
+      213: 6416415669884084654
+    second: app icons1_160
+  - first:
+      213: -59277213183419635
+    second: app icons1_161
+  - first:
+      213: -8521994472198571525
+    second: app icons1_162
+  - first:
+      213: -1578386478643112950
+    second: app icons1_163
+  - first:
+      213: 911844274241195728
+    second: app icons1_164
+  - first:
+      213: 8622048133836598676
+    second: app icons1_165
+  - first:
+      213: 7699159908966935945
+    second: app icons1_166
+  - first:
+      213: 2973851902532729262
+    second: app icons1_167
+  - first:
+      213: -1385526458533430
+    second: app icons1_168
+  - first:
+      213: -6042095332638734042
+    second: app icons1_169
+  - first:
+      213: 3840711432931354596
+    second: app icons1_170
+  - first:
+      213: 7030229452249170767
+    second: app icons1_171
+  - first:
+      213: -6078065203746813692
+    second: app icons1_172
+  - first:
+      213: -4932528786098640501
+    second: app icons1_173
+  - first:
+      213: -2226852170939780369
+    second: app icons1_174
+  - first:
+      213: -1043817578977861927
+    second: app icons1_175
+  - first:
+      213: -340567016626606933
+    second: app icons1_176
+  - first:
+      213: 6104854616272930139
+    second: app icons1_177
+  - first:
+      213: -808997773290696191
+    second: app icons1_178
+  - first:
+      213: -4337614755745179506
+    second: app icons1_179
+  - first:
+      213: 3444353321214741903
+    second: app icons1_180
+  - first:
+      213: -7011188491474066309
+    second: app icons1_181
+  - first:
+      213: 845441106075281122
+    second: app icons1_182
+  - first:
+      213: -2697014177713314351
+    second: app icons1_183
+  - first:
+      213: -5245446145955101493
+    second: app icons1_184
+  - first:
+      213: -199471125040956167
+    second: app icons1_185
+  - first:
+      213: -4286344166347354690
+    second: app icons1_186
+  - first:
+      213: -3650179698150560299
+    second: app icons1_187
+  - first:
+      213: 7583941469917179216
+    second: app icons1_188
+  - first:
+      213: -7056413314104352022
+    second: app icons1_189
+  - first:
+      213: 8807182565308753895
+    second: app icons1_190
+  - first:
+      213: 4690045712157892333
+    second: app icons1_191
+  - first:
+      213: 2129154653976794489
+    second: app icons1_192
+  - first:
+      213: -2595493620080987150
+    second: app icons1_193
+  - first:
+      213: -1671615488191535362
+    second: app icons1_194
+  - first:
+      213: -3591771812243534034
+    second: app icons1_195
+  - first:
+      213: -145007898407003301
+    second: app icons1_196
+  - first:
+      213: -1996582899040579374
+    second: app icons1_197
+  - first:
+      213: 2671917052667374318
+    second: app icons1_198
+  - first:
+      213: -2943439871554909284
+    second: app icons1_199
+  - first:
+      213: -2168621173268295503
+    second: app icons1_200
+  - first:
+      213: -1051058777793512143
+    second: app icons1_201
+  - first:
+      213: 3688961627752268108
+    second: app icons1_202
+  - first:
+      213: 8579609832290747012
+    second: app icons1_203
+  - first:
+      213: 8261249609678607489
+    second: app icons1_204
+  - first:
+      213: -2078516080786744972
+    second: app icons1_205
+  - first:
+      213: 8555834199376335072
+    second: app icons1_206
+  - first:
+      213: 4657735476788008162
+    second: app icons1_207
+  - first:
+      213: 4178706811135474489
+    second: app icons1_208
+  - first:
+      213: -5333641436048340051
+    second: app icons1_209
+  - first:
+      213: -5060442493759148433
+    second: app icons1_210
+  - first:
+      213: 5800274493518718496
+    second: app icons1_211
+  - first:
+      213: -3835525241267921916
+    second: app icons1_212
+  - first:
+      213: -2966900756599859925
+    second: app icons1_213
+  - first:
+      213: 2466726750750296465
+    second: app icons1_214
+  - first:
+      213: -641744733326896834
+    second: app icons1_215
+  - first:
+      213: 6183547402038262073
+    second: app icons1_216
+  - first:
+      213: 6758122286898757665
+    second: app icons1_217
+  - first:
+      213: 8454344977840146563
+    second: app icons1_218
+  - first:
+      213: -707108338702706201
+    second: app icons1_219
+  - first:
+      213: 2345241796544559181
+    second: app icons1_220
+  - first:
+      213: 1608275337461723954
+    second: app icons1_221
+  - first:
+      213: 5687017557693688700
+    second: app icons1_222
+  - first:
+      213: 4667301100670386339
+    second: app icons1_223
+  - first:
+      213: -8174699661984101067
+    second: app icons1_224
+  - first:
+      213: 5775510367264545828
+    second: app icons1_225
+  - first:
+      213: 2532837803452662387
+    second: app icons1_226
+  - first:
+      213: -4808849132718793656
+    second: app icons1_227
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: app icons1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 203
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ad3e86f1ce7f430800000000000000
+      internalID: 3816778828867689087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1010
+        width: 207
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573ab175adecbdce0800000000000000
+      internalID: -1379281423699303563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1015
+        width: 176
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c633c79b14d4a0800000000000000
+      internalID: -6569595617797553937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_3
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1032
+        width: 202
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7fa9525961642c0800000000000000
+      internalID: -4447842752144934947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 998
+        width: 202
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2835c15e9e628cd70800000000000000
+      internalID: 9063537036096197506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 684
+        width: 195
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73614b7e41f0748d0800000000000000
+      internalID: -2862302455709559241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 675
+        width: 194
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f83f526e35db10800000000000000
+      internalID: 2005577801288708272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_7
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 677
+        width: 201
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38657080b5c35af60800000000000000
+      internalID: 8044902671041648259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 672
+        width: 146
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418083e13ef5431a0800000000000000
+      internalID: -6830729305744996332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_9
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 665
+        width: 134
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57730163bbe35b0800000000000000
+      internalID: -5386662263413836337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_10
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 678
+        width: 193
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a691e5d83623ee50800000000000000
+      internalID: 6837350684826900136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 336
+        width: 148
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc453befa06236c0800000000000000
+      internalID: -4165160396682605320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 333
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbe21c037f3995b0800000000000000
+      internalID: -5361184118051509319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 336
+        width: 205
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecfae310e3f53c50800000000000000
+      internalID: 6644484968987426024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_14
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 369
+        width: 194
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eadec9ff2bf27f0800000000000000
+      internalID: -635092211516723695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_15
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 335
+        width: 160
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38c75f1164f5d0e0800000000000000
+      internalID: -2245620141199472581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_16
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 331
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a4319f3af89e9a0800000000000000
+      internalID: -6203269077304915310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_17
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 331
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca564d70df54a330800000000000000
+      internalID: 3721204541174471361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_18
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 331
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe80a025b4f6ce20800000000000000
+      internalID: 3370650429907046141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 148
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ad702285d4f7b0800000000000000
+      internalID: -5191289715583768755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 158
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7810aafc80b76720800000000000000
+      internalID: 2839432209627093118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_21
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 46
+        width: 155
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32b4ba588b2eb690800000000000000
+      internalID: -7584576857807998403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_22
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 14
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cede2ad0f87f3cbd0800000000000000
+      internalID: -2610971165163590164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_23
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 70
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b9047aae232a30800000000000000
+      internalID: 4189243388010805596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_24
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 0
+        width: 181
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7af1079153760a0800000000000000
+      internalID: -6888478721668306994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: app icons1_25
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2
+        width: 196
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991c2c1222fbb6280800000000000000
+      internalID: -9048928872954674791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

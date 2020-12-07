@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1b3741f3c6a98468704b6984651732, type: 3}
+  m_Name: 72-Q4T10
+  m_EditorClassIdentifier: 
+  questionCode: 72
+  isClosing: 0
+  noOption: 0
+  question: 
+  firstResponse: I just feel like I've never done that...to you...
+  firstDestination: Q4T13
+  secondResponse: I guess I just don't know how you can get better just by being
+    with me?
+  secondDestination: Q4T15
+  thirdResponse: I don't think I want to be the only thing that makes you better,
+    though?
+  thirdDestination: Q4T16

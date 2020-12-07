@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1b3741f3c6a98468704b6984651732, type: 3}
+  m_Name: 41-Q3T1
+  m_EditorClassIdentifier: 
+  questionCode: 41
+  isClosing: 0
+  noOption: 0
+  question: 
+  firstResponse: What are you talking about???
+  firstDestination: Q3T2
+  secondResponse: Okay I'm really concerned, I'm going to call someone
+  secondDestination: Q3T3
+  thirdResponse: No! You won't end up hurting me! Please don't do anything crazy,
+    I love you!
+  thirdDestination: Q3T4

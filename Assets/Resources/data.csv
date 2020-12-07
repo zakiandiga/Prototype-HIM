@@ -1,0 +1,13 @@
+questState,character,location,condition1Left,condition1Comp,condition1Right,condition2Left,condition2Comp,condition2Right,effectLeft,effectOp,effectRight,feedbackScore,line1,line2,line3,event
+Q1T1,self,,recentLosses,greater,3,,,,,,,,I've lost a bunch…,,,
+Q1T1,self,,recentLosses,greater,1,,,,recentLosses,add,1,,Dagnammit!,,,
+Q1T1,self,,recentLosses,greater,0,,,,,,,,Maybe next time,,,
+Q1T1,self,,default,,,,,,,,,,This is a nice place.,Close call!,What time is it?,
+Q1T1,Garin,,default,,,,,,,,,,Regards,,,
+Q1T1,Sloan,,default,,,,,,,,,,Regards,,,
+Q1T1,Vincent,,default,,,,,,,,,,Regards,,,
+Q1T1,Buffalo,,default,,,,,,,,,,Regards,,,
+Q1T1,Amber,,default,,,,,,,,,,Regards,,,
+Q1T1,Wren,,default,,,,,,,,,,Regards,,,
+Q1T1,Mika,,default,,,,,,,,,,Regards,,,
+Q1T1,Coco,,default,,,,,,,,,,Regards,,,

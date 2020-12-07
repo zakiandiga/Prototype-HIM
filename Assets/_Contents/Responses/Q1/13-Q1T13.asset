@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1b3741f3c6a98468704b6984651732, type: 3}
+  m_Name: 13-Q1T13
+  m_EditorClassIdentifier: 
+  questionCode: 13
+  isClosing: 0
+  noOption: 0
+  question: "I just don't understand why that bothers you :( \nYou don't want me
+    to be happy?"
+  firstResponse: No! Of course that't not what I mean. Sorry if it came out wrong
+  firstDestination: Q1T14
+  secondResponse: It feels like no matter what I say you're going to think that...
+  secondDestination: Q1T17
+  thirdResponse: 
+  thirdDestination: 

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f1b3741f3c6a98468704b6984651732, type: 3}
+  m_Name: 58-Q3T18
+  m_EditorClassIdentifier: 
+  questionCode: 58
+  isClosing: 0
+  noOption: 0
+  question: 
+  firstResponse: If you're doing this for me then we should break up! I don't want
+    you to feel like you have to do this.
+  firstDestination: Q3T17
+  secondResponse: Just talk to me. I love you and I'm so sorry you feel this way.
+  secondDestination: Q3T16
+  thirdResponse: 
+  thirdDestination: 
